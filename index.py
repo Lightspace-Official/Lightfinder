@@ -26,6 +26,6 @@ while True:
                              result )
     else:
         messagebox.showinfo('PythonPedia',
-                            'Sorry that word was not found, is the word spelled correctly? If not, that word is not supported, please write and fill in the \'New Word form\'')
+                            'Sorry that word was not found, is the word spelled correctly? If not, update PythonPedia with UPDATE.bat, or if still not, contribute to the project.')
         
         root.mainloop()
