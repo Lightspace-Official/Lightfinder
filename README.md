@@ -3,7 +3,7 @@ A simple, offline and extremely lightweight information finder.
 Right now Lightfinder is in testing, and NOT AVAILABLE FOR DOWNLOAD.
 
 ## How to Use
-1. Download the files from the Lightfinder website.
+1. Download the files from the [Lightfinder website](https://bit.ly/lightfinder).
 2. Extract the files from the folder.
 3. And launch the EXE!
 
