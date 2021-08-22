@@ -9,3 +9,4 @@ Kitty/ A kitty is the baby version of a cat, which is very cute
 Lightfinder/It is the program you are using right now
 I/I is a letter of the English alphabet, also used as a word to descibe oneself.
 Me/Me is a word which is used to describe oneself.
+House/A house is where people live in.
