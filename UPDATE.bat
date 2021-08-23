@@ -1,4 +1,4 @@
-
+@echo off
 echo 'Updating Lightfinder'
 del data.txt
 del Lightfinder.py
