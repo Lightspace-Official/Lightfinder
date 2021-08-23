@@ -28,7 +28,7 @@ while True:
         messagebox.showinfo('Lightfinder',
                              result )
     else:
-        messagebox.showinfo('Lightfinder',
+        messagebox.showwarning('Lightfinder',
                             'Sorry that word was not found, is the word spelled correctly? If not, try updating with UPDATE.bat, or if still not please write and fill in the \'New Word form\'')
          
         root.mainloop()
