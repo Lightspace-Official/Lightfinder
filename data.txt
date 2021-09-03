@@ -5,15 +5,17 @@ Fart/A Fart is a gas which comes out of a subject's buttock, mostly stinky.
 Bunny/A bunny is a species of animal
 Tiger/A fierce animal which is a predator
 Cat/A cat is a species of animal, whoch is very common, it is used as a pet in many homes.
-Kitty/ A kitty is the baby version of a cat, which is very cute
-Lightfinder/It is the program you are using right now
+Kitty/ A kitty is the baby version of a cat, which is very cute.
+Lightfinder/It is the program you are using right now.
 I/I is a letter of the English alphabet, also used as a word to descibe oneself.
 Me/Me is a word which is used to describe oneself.
 House/A house is where people live in.
 Hadi/Hadi is the person who made Lightfinder. Who is very famous.
 Daniyal/Daniyal is a the brother of Hadi.
 Buttock/A buttock is another word for bum.
-Earth/Is what your living on.
+Earth/Is what you're living on.
 Crazy/Being crazy is when you do weird stuff.
-Github/Github is where lightfinder was made.
+Github/Github is where you can make and share software.
 Jelly/Jelly is a dessert that is very soft and wiggly.
+You/You is a word which is used to describe another person.
+Australia/Australia is a country and an continent in the Asian Pacific Sea.
