@@ -23,3 +23,12 @@ Joke/A joke is a display of humour in which words are used within a specific and
 Annebelle/A set of horror movies, created by Warner Bros.
 The Conjuring/ A horror movie series, which includes 2 detectivs named Ed & Lorraine.
 The conjuring/ A horror movie series, which includes 2 detectivs named Ed & Lorraine.
+The Nun/The Nun Is A Horror Movie On A Babysitter Which Is Based On A Real Story.
+The nun/The Nun Is A Horror Movie On A Babysitter Which Is Based On A Real Story.
+Apple Pi OS/ A OS for ARM64 devices made by LightOrg, based on Linux, is very light, and based for Raspberry Pi devices.
+Apple pi OS/ A OS for ARM64 devices made by LightOrg, based on Linux, is very light, and based for Raspberry Pi devices.
+Apple pi os/ A OS for ARM64 devices made by LightOrg, based on Linux, is very light, and based for Raspberry Pi devices.
+Apple Pi os/ A OS for ARM64 devices made by LightOrg, based on Linux, is very light, and based for Raspberry Pi devices.
+Apple pi Os/ A OS for ARM64 devices made by LightOrg, based on Linux, is very light, and based for Raspberry Pi devices.
+Apple pi oS/ A OS for ARM64 devices made by LightOrg, based on Linux, is very light, and based for Raspberry Pi devices.
+--help/Go to bit.ly/lightfinder for more info.
