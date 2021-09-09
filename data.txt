@@ -31,4 +31,4 @@ Apple pi os/ A OS for ARM64 devices made by LightOrg, based on Linux, is very li
 Apple Pi os/ A OS for ARM64 devices made by LightOrg, based on Linux, is very light, and based for Raspberry Pi devices.
 Apple pi Os/ A OS for ARM64 devices made by LightOrg, based on Linux, is very light, and based for Raspberry Pi devices.
 Apple pi oS/ A OS for ARM64 devices made by LightOrg, based on Linux, is very light, and based for Raspberry Pi devices.
---help/Go to bit.ly/lightfinder for more info.
+--help/Go to our website for more info.
