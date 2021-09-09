@@ -1,11 +1,10 @@
 @echo off
-echo Updating Lightfinder...
+powershell -Command "& {Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Updating', 'Updating Lightfinder', 'OK', [System.Windows.Forms.MessageBoxIcon]::Information);}"
 del data.txt
 del Lightfinder.py
 powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/LightOrg-Official/Lightfinder/v1/data.txt -Outfile data.txt"
 powershell -Command "Invoke-Webrequest https://raw.githubusercontent.com/LightOrg-Official/Lightfinder/v1/Lightfinder.py -Outfile Lightfinder.py"
-echo Done!
-pause
-echo Do you want to launch Lightfinder? If no, you are free to exit.
-pause
-START Lightfinder.exe
+powershell -Command "& {Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Lightfinder has been updated to the latest version', 'Updated', 'OK', [System.Windows.Forms.MessageBoxIcon]::Information);}"
+powershell -Command "& {Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Do you want to run Lightfinder?', '', 'YesNo', [System.Windows.Forms.MessageBoxIcon]::Warning);}" > %TEMP%\out.tmp
+set /p OUT=<%TEMP%\out.tmp
+if %OUT%==Yes (START Lightfinder.exe)
