@@ -1,13 +1,24 @@
+import subprocess
+import easygui
 
 
 from tkinter import Tk, simpledialog, messagebox
 
+UPDATE = easygui.enterbox("Do you want to update? (yes/no/y/n)")
+
+if UPDATE == ('yes'):
+    subprocess.Popen('UPDATE.bat')
+    sys.exit()
+elif UPDATE == ('y'):
+    subprocess.Popen('UPDATE.bat')
+    sys.exit()
 
 def read_from_file():
     with open('data.txt') as file:
         for line in file:
             line = line.rstrip('\n')
             country, city = line.split('/')
+
             the_world[country] = city
 
 def write_to_file(country_name, city_name):
