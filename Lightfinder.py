@@ -8,10 +8,10 @@ UPDATE = easygui.enterbox("Do you want to update? (yes/no/y/n)")
 
 if UPDATE == ('yes'):
     subprocess.Popen('UPDATE.bat')
-    sys.exit()
+    quit()
 elif UPDATE == ('y'):
     subprocess.Popen('UPDATE.bat')
-    sys.exit()
+    quit()
 
 def read_from_file():
     with open('data.txt') as file:
