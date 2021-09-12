@@ -1,17 +1,8 @@
 import subprocess
-import easygui
 
 
 from tkinter import Tk, simpledialog, messagebox
 
-UPDATE = easygui.enterbox("Do you want to update? (yes/no/y/n)")
-
-if UPDATE == ('yes'):
-    subprocess.Popen('UPDATE.bat')
-    quit()
-elif UPDATE == ('y'):
-    subprocess.Popen('UPDATE.bat')
-    quit()
 
 def read_from_file():
     with open('data.txt') as file:
@@ -30,6 +21,16 @@ root = Tk()
 root.withdraw()
 the_world = {}
 read_from_file()
+
+UPDATE = simpledialog.askstring('Lightfinder', 'Do you want to update? (yes/no/y/n)')
+
+if UPDATE == ('yes'):
+    subprocess.Popen('UPDATE.bat')
+    quit()
+elif UPDATE == ('y'):
+    subprocess.Popen('UPDATE.bat')
+    quit()
+
 
 while True:
     query_country = simpledialog.askstring('Lightfinder', 'Type your word')
