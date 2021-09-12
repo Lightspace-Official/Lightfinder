@@ -4,7 +4,7 @@ Human/Human is a species on earth
 Fart/A Fart is a gas which comes out of a subject's buttock, mostly stinky.
 Bunny/A bunny is a species of animal
 Tiger/A fierce animal which is a predator
-Cat/A cat is a species of animal, whoch is very common, it is used as a pet in many homes.
+Cat/A cat is a species of animal, which is very common, it is used as a pet in many homes.
 Kitty/ A kitty is the baby version of a cat, which is very cute.
 Lightfinder/It is the program you are using right now.
 I/I is a letter of the English alphabet, also used as a word to descibe oneself.
@@ -32,3 +32,9 @@ Apple Pi os/ A OS for ARM64 devices made by LightOrg, based on Linux, is very li
 Apple pi Os/ A OS for ARM64 devices made by LightOrg, based on Linux, is very light, and based for Raspberry Pi devices.
 Apple pi oS/ A OS for ARM64 devices made by LightOrg, based on Linux, is very light, and based for Raspberry Pi devices.
 --help/Go to our website for more info.
+Television/Television (TV) is a entertainment and a multipurpose device to watch the moving pictures industry.
+Tv/Television (TV) is a entertainment and a multipurpose device to watch the moving pictures industry.
+TV/Television (TV) is a entertainment and a multipurpose device to watch the moving pictures industry.
+Me/Me is a word to descibe oneself
+Islam/Islam is a religion started in the Middle East in Arabia, the people who practice this religion are called Muslims.
+Muslims/A person who follows and practices Islam.
