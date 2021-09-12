@@ -16,8 +16,9 @@ Look out for this update!
 ## How to Use
 1. Download the installer from the [Lightfinder website](https://bit.ly/lightfinder).
 2. Run the installer to install to DESKTOP.
-3. Look in the DESKTOP folder to launch Lightfinder.
-4. And launch the EXE!
+3. Look in the DESKTOP folder to launch FIRST_RUN.exe.
+4. Run FIRST_RUN.exe
+5. Now go to your Start menu and click on Lightfinder!
 
 ## How to Update
 For minor updates, use the UPDATE.bat or launch the Lightfinder.py, (New feature: Lightfinder now asks you to update!) and say 'yes' or 'y' to update, but this is only for minor updates, for major updates, go to our website and download our installer to update.
