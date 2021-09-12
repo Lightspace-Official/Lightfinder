@@ -6,8 +6,8 @@ Right now Lightfinder is in one of its earliest releases, you could download Lig
 v2.0 is coming! This release will come with a new number of features:
  * Auto update detection
  * More words than ever
- * **Search feature**, if word is not found
- v2.0 may be released in the next weeks or maybe even months, we will pin the date if it is definite. 
+ * **Search feature**, if word is not found. <br/>
+ v2.0 may be released in the next weeks or maybe even months, we will pin the date, if it is definite. 
 
 ## How to Use
 1. Download the installer from the [Lightfinder website](https://bit.ly/lightfinder).
