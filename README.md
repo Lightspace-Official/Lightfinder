@@ -1,6 +1,5 @@
 # Lightfinder
-A simple, offline and extremely lightweight information finder.
-Right now Lightfinder is in one of its earliest releases, you could download Lightfinder right now and it will work just fine.
+A simple, offline and extremely lightweight information finder. Created by your favourie organisation, LightOrg.
 
 ## Notes 
 v2.0 is coming! This release will come with a new number of features:
