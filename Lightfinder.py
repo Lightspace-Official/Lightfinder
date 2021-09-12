@@ -25,7 +25,7 @@ def write_to_file(country_name, city_name):
     with open('data.txt', 'a') as file:
         file.write('\n' + country_name + '/' + city_name)
 
-print('Opensource, HJ - Lightfinder')
+print('LightOrg, HJ - Lightfinder')
 root = Tk()
 root.withdraw()
 the_world = {}
