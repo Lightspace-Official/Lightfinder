@@ -39,3 +39,10 @@ Me/Me is a word to descibe oneself
 Islam/Islam is a religion started in the Middle East in Arabia, the people who practice this religion are called Muslims.
 Muslim/A person who follows and practices Islam.
 Food/Food is a word to describe any edible substance, which is meant for eating.
+Python/Python is a coding interpreted coding language, which Lightfinder was made from.
+ARM64/A proccessor architecture, mostly for single board computers.
+Light/Light or visible light is electromagnetic radiation within the portion of the electromagnetic spectrum that is perceived by the human eye.
+Notation/In linguistics and semiotics, a notation is a system of graphics or symbols, characters and abbreviated expressions, used (for example) in artistic and scientific disciplines to represent technical facts and quantities by convention.
+Meow/A meow is a cat vocalization. Meows may have diverse tones and are sometimes chattered, murmured or whispered. Adult cats rarely meow to each other, so an adult cat meowing to human beings is probably a post-domestication extension of meowing by kittens; a call for attention.
+Baby/An infant (from the Latin word infans, meaning 'unable to speak' or 'speechless') is the more formal or specialised synonym for the common term baby, meaning the very young offspring of human beings. 
+Infant/An infant (from the Latin word infans, meaning 'unable to speak' or 'speechless') is the more formal or specialised synonym for the common term baby, meaning the very young offspring of human beings. 
