@@ -2,23 +2,21 @@
 A simple, offline and extremely lightweight information finder. Created by your favourie organisation, LightOrg.
 
 ## Notes 
-v2.0 is coming! This release will come with a new number of features:
+### Major Start Menu Bug Notice
+**v2.0** is coming! This release will come with a new number of features:
  * Auto update detection
  * More words than ever
  * **Search feature**, if word is not found. <br/>
  v2.0 may be released in the next weeks or maybe even months, we will pin the date, if it is definite. 
 
 ## Next Release 
-The next release is v1.2! This release is coming in the next week or so, and it has some exciting new features:
-* Lightfinder now asks to update!
-* UPDATE.bat now has a easy-to-use GUI!
-Look out for this update!
+The next release is not known yet, please check later for the next Lightfinder release.
 ## How to Use
 1. Download the installer from the [Lightfinder website](https://bit.ly/lightfinder).
 2. Run the installer to install to DESKTOP.
-3. Look in the DESKTOP folder to launch FIRST_RUN.exe.
-4. Run FIRST_RUN.exe
-5. Now go to your Start menu and click on Lightfinder!
+3. Look in the DESKTOP folder to launch Lightfinder.exe
+4. Run Lightfinder.exe
+5. Now use your Lightfinder!
 
 ## How to Update
 For minor updates, use the UPDATE.bat or launch the Lightfinder.py, (New feature: Lightfinder now asks you to update!) and say 'yes' or 'y' to update, but this is only for minor updates, for major updates, go to our website and download our installer to update.
