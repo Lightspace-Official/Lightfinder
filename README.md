@@ -3,6 +3,9 @@ A simple, offline and extremely lightweight information finder. Created by your 
 
 ## Notes 
 ### Major Start Menu Bug Notice
+In the v1.2 release, we have stated that there is a new feature which it will enable you to use Lightfinder from the Start Menu, we have checked this and it doesn't work. We have released v1.21 to fix this bug. Please update to this release as soon as you can.
+</br>
+### v2.0 is coming soon!
 **v2.0** is coming! This release will come with a new number of features:
  * Auto update detection
  * More words than ever
