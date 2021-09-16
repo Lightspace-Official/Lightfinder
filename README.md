@@ -1,5 +1,5 @@
 # Lightfinder
-A simple, offline and extremely lightweight information finder. Created by your favourie organisation, LightOrg.
+A simple, offline and extremely lightweight information finder. Created by your favourie organisation, LightOrg. Type a word, see the meaning!
 
 ## Notes 
 ### Major Start Menu Bug Notice
@@ -10,6 +10,8 @@ In v1.2, we have stated that there is a new feature which it will enable you to 
  * Auto update detection
  * More words than ever
  * **Search feature**, if word is not found. <br/>
+ * Start Menu feature coming back from v1.2 (maybe)
+
  v2.0 may be released in the next weeks or maybe even months, we will pin the date, if it is definite. 
 
 ## Next Release 
