@@ -2,9 +2,6 @@
 A simple, offline and extremely lightweight information finder. Created by your favourie organisation, LightOrg. Type a word, see the meaning!
 
 ## Notes 
-### Major Start Menu Bug Notice
-In v1.2, we have stated that there is a new feature which it will enable you to use Lightfinder from the Start Menu, we have checked this and it doesn't work. We have released v1.21 to fix this bug. Please update to this release as soon as you can.
-</br>
 ### v2.0 is coming soon!
 **v2.0** is coming! This release will come with a new number of features:
  * Auto update detection
@@ -15,9 +12,7 @@ In v1.2, we have stated that there is a new feature which it will enable you to 
  v2.0 may be released in the next weeks or maybe even months, we will pin the date, if it is definite. 
 
 ## Next Release 
-Our next release is v1.3! This update will make UPDATE.bat update everything! Even if there is new files, it will also update that! <br/>
-This means that you won't need to update a major update by downloading it again, instead you can use UPDATE.bat. v1.3 will also have bug fixes for Lightfinder.<br/>
-Keep an eye for this amazing update in the next week or so!
+Our next release is v1.3! In this update **Start Menu Feature is working!** Also you can uninstall Lightfinder from the uninstaller in windows! *Amazing*
 
 ## How to Use
 1. Download the installer from the [Lightfinder website](https://bit.ly/lightfinder).
