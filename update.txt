@@ -1,2 +1,2 @@
 1.5
-https://github.com/LightOrg-Official/Lightfinder/raw/dist/Lightfinder_Setup.exe
+https://github.com/LightOrg-Official/Lightfinder/raw/dist/Lightfinder_Sehhtup.exe
