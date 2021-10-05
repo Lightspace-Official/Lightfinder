@@ -1,0 +1,2 @@
+1.4
+https://github.com/LightOrg-Official/Lightfinder/raw/dist/Lightfinder_Setup.exe
