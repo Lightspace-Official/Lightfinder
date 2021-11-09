@@ -2,6 +2,8 @@
 A simple, offline and extremely lightweight information finder. Created by your favourie organisation, LightOrg. Type a word, see the meaning!
 
 ## Notes 
+### Lightfinder - Coming to an end
+v2.0 will be the last & final version of Lightfinder. After this, Lightfinder will no longer be supported and maintained by Lightspace Org. Thank you all for helping Lightfinder the best it can be, and see you in our new projects! (LightX OS & lightX DevBox!)
 ### v2.0 is coming soon!
 **v2.0** is coming! This release will come with a new number of features:
  * Auto update detection
