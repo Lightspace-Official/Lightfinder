@@ -36,6 +36,171 @@ Television/Television (TV) is a entertainment and a multipurpose device to watch
 Tv/Television (TV) is a entertainment and a multipurpose device to watch the moving pictures industry.
 TV/Television (TV) is a entertainment and a multipurpose device to watch the moving pictures industry.
 Me/Me is a word to descibe oneself
+Clock/A mechanical or electrical device for measuring time, indicating hours, minutes, and sometimes seconds, typically by hands on a round dial or by displayed figures.
+Chair/A separate seat for one person, typically with a back and four legs.
+Table/A piece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working at.
+Pen/An instrument for writing or drawing with ink, typically consisting of a metal nib or ball, or a nylon tip, fitted into a metal or plastic holder.
+Paper/A material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or printing on, or as wrapping material.
+Computer/An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.
+Keyboard/A panel of keys used for typing, as on a typewriter or computer terminal.
+Mouse/A small hand-held device that is moved across a mat or flat surface to move the cursor on a computer screen.
+Screen/A fixed or movable upright partition used to divide a room, give shelter from drafts, provide a decorative background, or conceal something.
+Wall/The continuous vertical brick or stone structure that encloses or divides an area of land.
+Door/A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle, or in the framework of a cupboard.
+Window/An opening in the wall or roof of a building or vehicle that is fitted with glass or other transparent material in a frame to admit light or air and allow people to see out.
+Carpet/A floor covering made from thick woven fabric, typically shaped to fit a particular room.
+Bed/A piece of furniture for sleep or rest, typically a framework with a mattress and coverings.
+Pillow/A rectangular cloth bag stuffed with feathers, foam rubber, or other soft materials, used to support the head when lying down.
+Lamp/A device for giving light, either one consisting of an electric bulb together with its holder and shade or cover, or one burning gas or oil and consisting of a wick or mantle and a glass shade.
+Chair/A separate seat for one person, typically with a back and four legs.
+Table/A piece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working at.
+Book/A written or printed work consisting of pages glued or sewn together along one side and bound in covers.
+Glass/A hard, brittle substance, typically transparent or translucent, made by fusing sand with soda, lime, and sometimes other ingredients and cooling rapidly. 
+Plant/A living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses, typically growing in a permanent site, absorbing water and inorganic substances through its roots, and synthesizing nutrients in its leaves by photosynthesis using the green pigment chlorophyll.
+Sky/The region of the atmosphere and outer space seen from the earth.
+Food/Food is a word to describe any edible substance, which is meant for eating.
+Dictionary/A book or electronic resource listing the words of a language (typically in alphabetical order) and giving their meaning or equivalent in another language.
+Word/A single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed. 
+Language/The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.
+Meaning/What is meant by a word, text, concept, or action.
+School/An institution for educating children.
+Teacher/A person who teaches, especially in a school.
+Student/A person who is studying at a school or college.
+Book/A written or printed work consisting of pages glued or sewn together along one side and bound in covers.
+Library/A building or room containing collections of books, periodicals, and sometimes films and recorded music for use or borrowing by the public or the members of an institution.
+Pencil/A long, thin object, usually made of wood, containing a rod of graphite or other marking substance, used for writing or drawing.
+Eraser/A small device, typically made of rubber, used for removing pencil or ink marks.
+Paper/A material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or printing on, or as wrapping material.
+Desk/A piece of furniture with a flat or sloped surface and typically with drawers, at which one can read, write, or do other work.
+Computer/An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.
+Chair/A separate seat for one person, typically with a back and four legs.
+Table/A piece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working at.
+Lamp/A device for giving light, either one consisting of an electric bulb together with its holder and shade or cover, or one burning gas or oil and consisting of a wick or mantle and a glass shade.
+Bed/A piece of furniture for sleep or rest, typically a framework with a mattress and coverings.
+Window/An opening in the wall or roof of a building or vehicle that is fitted with glass or other transparent material in a frame to admit light or air and allow people to see out.
+Door/A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle, or in the framework of a cupboard.
+Clock/A mechanical or electrical device for measuring time, indicating hours, minutes, and sometimes seconds, typically by hands on a round dial or by displayed figures.
+Car/A road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor and able to carry a small number of people.
+Tree/A woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground.
+Water/A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.
+Sunrise/The time in the morning when the sun appears or full daylight arrives.
+Sunset/The time in the evening when the sun disappears or daylight fades.
+Moonrise/The time at which the moon appears above the horizon.
+Moonset/The time at which the moon disappears below the horizon.
+Star/A fixed luminous point in the night sky that is a large, remote incandescent body like the sun.
+Cloud/A visible mass of condensed water vapor floating in the atmosphere, typically high above the ground.
+Rain/Precipitation in the form of liquid water drops that have condensed from atmospheric water vapor and then become heavy enough to fall under gravity.
+Snow/Atmospheric water vapor frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer.
+Wind/The natural movement of the air, especially in the form of a current of air blowing from a particular direction.
+Thunder/The sound caused by the rapid expansion of air along an electrical strike in a lightning bolt.
+Lightning/A sudden electrostatic discharge during an electrical storm between electrically charged regions of a cloud, between a cloud and the ground, or between clouds.
+Ocean/A very large expanse of sea, in particular, each of the main areas into which the sea is divided geographically.
+Mountain/A large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill.
+River/A large natural stream of water flowing in a channel to the sea, a lake, or another such stream.
+Lake/A large body of water surrounded by land.
+Fish/A limbless cold-blooded vertebrate animal with gills and fins and living wholly in water.
+Bird/A warm-blooded egg-laying vertebrate animal distinguished by the possession of feathers, wings, a beak, and typically by being able to fly.
+Reptile/A cold-blooded vertebrate animal of a class that includes snakes, lizards, crocodiles, turtles, and tortoises.
+Insect/A small arthropod animal that has six legs and generally one or two pairs of wings.
+Flower/The seed-bearing part of a plant, consisting of reproductive organs that are typically surrounded by brightly colored petals and green sepals.
+Grass/A low-growing plant that has narrow green leaves and is often used for lawns and ground cover.
+Rock/The solid mineral material forming part of the surface of the earth and other similar planets, exposed on the surface or underlying the soil or oceans.
+Sand/A loose granular substance, typically pale yellowish brown, resulting from the erosion of siliceous and other rocks and forming a major constituent of beaches, riverbeds, the seabed, and deserts.
+Soil/The upper layer of earth in which plants grow, a black or dark brown material typically consisting of a mixture of organic substances, clay, and rock particles.
+Tree/A woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground.
+Fruit/The sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food.
+Vegetable/A plant or part of a plant used as food, typically as accompaniment to meat or fish, such as a cabbage, potato, carrot, or bean.
+Mountain/A large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill.
+Valley/A low area of land between hills or mountains, typically with a river or stream flowing through it.
+Island/A piece of land surrounded by water.
+Ocean/A very large expanse of sea, in particular, each of the main areas into which the sea is divided geographically.
+Beach/A pebbly or sandy shore, especially by the sea between high- and low-water marks.
+Desert/A barren area of land where little precipitation occurs and consequently living conditions are hostile for plant and animal life.
+Forest/A large area covered chiefly with trees and undergrowth.
+Stream/A small, narrow river.
+Lake/A large body of water surrounded by land.
+Pond/A small body of still water, typically one formed naturally.
+Swamp/An area of low-lying, uncultivated ground where water collects; a bog or marsh.
+Sesquipedalian/Characterized by long words; long-winded.
+Petrichor/The pleasant smell that accompanies the first rain after a dry spell.
+Serendipity/The occurrence and development of events by chance in a happy or beneficial way.
+Defenestration/The action of throwing someone out of a window.
+Bibliopole/A person who buys and sells books, especially rare ones.
+Grok/To understand intuitively or by empathy; to establish rapport with.
+Quixotic/Exceedingly idealistic; unrealistic and impractical.
+Limerence/The state of being infatuated or obsessed with another person, typically experienced involuntarily and characterized by a strong desire for reciprocation of one's feelings.
+Callipygian/Having well-shaped buttocks.
+Phantasmagoria/A sequence of real or imaginary images like those seen in a dream.
+Nefelibata/A cloud walker; one who lives in the cloud of their own imagination or dreams, or one who does not obey the conventions of society, literature, or art.
+Saudade/A deep emotional state of nostalgic or profound melancholic longing for an absent something or someone that one cares for and/or loves.
+Pulchritudinous/Breathtakingly beautiful; physically attractive.
+Onomatopoeia/The formation of a word from a sound associated with what is named.
+Obfuscate/To deliberately make something unclear or difficult to understand.
+Sesquipedalian/Characterized by long words; long-winded.
+Supercalifragilisticexpialidocious/Extraordinarily good; wonderful.
+Discombobulate/To confuse or disconcert; upset; frustrate.
+Ephemeral/Lasting for a very short time.
+Omnishambles/A situation that has been comprehensively mismanaged, characterized by a string of blunders and miscalculations.
 Islam/Islam is a religion started in the Middle East in Arabia, the people who practice this religion are called Muslims.
 Muslim/A person who follows and practices Islam.
 Food/Food is a word to describe any edible substance, which is meant for eating.
+Chair/A separate seat for one person, typically with a back and four legs.
+Table/A piece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working at.
+Book/A written or printed work consisting of pages glued or sewn together along one side and bound in covers.
+Pen/An instrument for writing or drawing with ink, typically consisting of a metal nib or ball, or a nylon tip, fitted into a metal or plastic holder.
+Paper/A material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or printing on, or as wrapping material.
+Desk/A piece of furniture with a flat or sloped surface and typically with drawers, at which one can read, write, or do other work.
+Lamp/A device for giving light, either one consisting of an electric bulb together with its holder and shade or cover, or one burning gas or oil and consisting of a wick or mantle and a glass shade.
+Bed/A piece of furniture for sleep or rest, typically a framework with a mattress and coverings.
+Window/An opening in the wall or roof of a building or vehicle that is fitted with glass or other transparent material in a frame to admit light or air and allow people to see out.
+Door/A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle, or in the framework of a cupboard.
+Clock/A mechanical or electrical device for measuring time, indicating hours, minutes, and sometimes seconds, typically by hands on a round dial or by displayed figures.
+Car/A road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor and able to carry a small number of people.
+Tree/A woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground.
+Water/A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.
+Sun/The star around which the earth orbits.
+Moon/The natural satellite of the earth, visible (chiefly at night) by reflected light from the sun.
+Cloud/A visible mass of condensed water vapor floating in the atmosphere, typically high above the ground.
+Rain/Precipitation in the form of liquid water drops that have condensed from atmospheric water vapor and then become heavy enough to fall under gravity.
+Mountain/A large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill.
+Valley/A low area of land between hills or mountains, typically with a river or stream flowing through it.
+Island/A piece of land surrounded by water.
+Ocean/A very large expanse of sea, in particular, each of the main areas into which the sea is divided geographically.
+Beach/A pebbly or sandy shore, especially by the sea between high- and low-water marks.
+Desert/A barren area of land where little precipitation occurs and consequently living conditions are hostile for plant and animal life.
+Forest/A large area covered chiefly with trees and undergrowth.
+Stream/A small, narrow river.
+Lake/A large body of water surrounded by land.
+Pond/A small body of still water, typically one formed naturally.
+Swamp/An area of low-lying, uncultivated ground where water collects; a bog or marsh.
+River/A large natural stream of water flowing in a channel to the sea, a lake, or another such stream.
+Waterfall/A cascade of water falling from a height, formed when a river or stream flows over a precipice or steep incline.
+Cave/A large underground chamber, typically of natural origin, in a hillside or cliff.
+Glacier/A persistent body of dense ice that is constantly moving under its own weight; a slowly moving mass or river of ice formed by the accumulation and compaction of snow on mountains or near the poles.
+Volcano/A mountain or hill, typically conical, having a crater or vent through which lava, rock fragments, hot vapor, and gas are or have been erupted from the earth's crust.
+Plateau/An area of relatively level high ground.
+Canyon/A deep gorge, typically one with a river flowing through it, as found in North America.
+Cliff/A steep rock face, especially at the edge of the sea.
+Village/A small community or group of houses in a rural area.
+Town/An urban area that is larger than a village but smaller than a city.
+City/A large town.
+Capital/The most important city or town of a country or region, usually its seat of government and administrative center.
+Country/A nation with its own government, occupying a particular territory.
+Continent/Any of the world's main continuous expanses of land (Africa, Antarctica, Asia, Australia, Europe, North America, South America).
+State/A nation or territory considered as an organized political community under one government.
+Province/A principal administrative division of certain countries or empires.
+County/A territorial division of a country forming the chief unit of local administration.
+District/A geographical or administrative division of a country or city.
+Street/A public road in a city or town, typically with houses and buildings on one or both sides.
+Avenue/A wide road in a city or town, typically having trees at regular intervals along its sides.
+Boulevard/A wide street in a city, typically one lined with trees.
+Lane/A narrow road, especially in a rural area.
+Road/A wide way leading from one place to another, especially one with a specially prepared surface that vehicles can use.
+Highway/A main road, especially one connecting major towns or cities.
+Bridge/A structure carrying a road, path, railroad, or canal across a river, ravine, road, railroad, or other obstacle.
+Tunnel/A passage made underground, through a hill or under a building, road, etc.
+Park/A large public green area in a town, used for recreation.
+Garden/A piece of ground, often near a house, used for growing flowers, fruit, or vegetables.
+Square/An open area or public space in a city or town, typically surrounded by buildings and containing trees, gardens, or other decorative features.
+Marketplace/A place where goods or services are bought and sold, especially a central area in a town.
+
